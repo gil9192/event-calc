@@ -68,3 +68,16 @@ button:hover {
     border: 1px solid #d4edda;
     border-radius: 4px;
 }
+
+.accessibility-link {
+    display: block;
+    margin-top: 1.5em;
+    text-align: center;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.accessibility-link:hover {
+    text-decoration: underline;
+}
